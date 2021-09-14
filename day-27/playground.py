@@ -30,5 +30,6 @@ class Car:
         self.colour = kw("color")
         self.seats = kw("seats")
 
+
 my_car = Car(make="Nissan")
 print(my_car.model)

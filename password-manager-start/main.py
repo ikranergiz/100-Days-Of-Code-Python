@@ -2,10 +2,35 @@ from tkinter import *
 from tkinter import messagebox  # is not class thats because we write little letter
 from random import choice, randint, shuffle
 import pyperclip
+import json
 
 BLACK = "#000000"
 DARK_BLUE = "#150050"
 DARK_PURPLE = "#3F0071"
+
+
+# ------------------------------ SEARCH DATA ------------------------------------ #
+
+def find_password():
+    website = website_entry.get()
+
+    try:
+        with open("data.json", "r") as data_file:
+            data = json.load(data_file)
+
+    except FileNotFoundError:
+
+        messagebox.showwarning(title="Error", message="No Data File Found.")
+
+    else:
+        if website in data:
+            email = data[website]["email"]
+            password = data[website]["password"]
+
+            messagebox.showinfo(title=website, message=f"Email: {email}\nPassword: {password}")
+
+        else:
+            messagebox.showinfo(title="Error", message=f"No details for {website} exists")
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -37,19 +62,43 @@ def safe_data():
     website = website_entry.get()
     email = email_username_entry.get()
     password = password_entry.get()
+    new_data = {
+        website: {
+            "email": email,
+            "password": password,
+        }
+    }
 
     if len(website) == 0 or len(password) == 0:
         messagebox.showwarning(title="Oops", message="Please don't any fields empty!")
 
     else:
-        is_ok = messagebox.askokcancel(title=website, message=f"These ate the details entered: \nEmail: {email}"
-                                                              f"\nPassword: {password}\nIs it ok to save?")
 
-        if is_ok:
-            with open("data.txt", "a") as data:
-                data.write(f"{website} | {email} | {password}\n")
-                website_entry.delete(0, END)  # we deleted all data in website_entry 0 to end
-                password_entry.delete(0, END)
+        # json.dump(new_data, data_file, indent=4) we can provide number of spaces to indent all the json data,
+        # so it becomes much easier to read
+
+        try:
+            with open("data.json", "r") as data_file:
+
+                # Reading old data
+                data = json.load(data_file)
+
+        except FileNotFoundError:
+            with open("data.json", "w") as data_file:
+                # Saving updated data
+                json.dump(new_data, data_file, indent=4)
+
+        else:
+            # Updating old data with new data
+            data.update(new_data)
+
+            with open("data.json", "w") as data_file:
+                # Saving updated data
+                json.dump(data, data_file, indent=4)
+
+        finally:
+            website_entry.delete(0, END)  # we deleted all data in website_entry 0 to end
+            password_entry.delete(0, END)
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -64,8 +113,8 @@ canvas.create_image(100, 100, image=logo_image)
 canvas.grid(column=1, row=0)
 
 # Entries
-website_entry = Entry(width=53)
-website_entry.grid(column=1, row=1, columnspan=2)
+website_entry = Entry(width=34)
+website_entry.grid(column=1, row=1)
 website_entry.focus()
 
 email_username_entry = Entry(width=53)
@@ -92,5 +141,8 @@ generate_password_button.grid(column=2, row=3)
 
 add_button = Button(width=45, text="Add", command=safe_data)
 add_button.grid(column=1, row=4, columnspan=2)
+
+search_button = Button(text="Search", width=15, command=find_password)
+search_button.grid(column=2, row=1)
 
 window.mainloop()

@@ -33,7 +33,17 @@ print(new_dict)
 
 # TODO 2. Create a list of the phonetic code words from a word that the user inputs.
 
-word = input("Enter a word").upper()
+def generate_phonetic():
+    word = input("Enter a word: ").upper()
 
-output_list = [new_dict[letter] for letter in word]
-print(output_list)
+    try:
+        output_list = [new_dict[letter] for letter in word]
+
+    except KeyError:
+        print("Sorry, only letters in the alphabet please.")
+        generate_phonetic()
+
+    else:
+        print(output_list)
+
+generate_phonetic()

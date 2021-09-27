@@ -20,11 +20,13 @@ directions = [0, 90, 180, 270]
 #tim.pensize(15)
 tim.speed("fastest")
 
+
 def draw_spirograph(size_of_gap):
     for i in range(int(360 / size_of_gap)):
         tim.color(random_color())
         tim.setheading(i * 5 + 100)
         tim.circle(50)
+
 
 draw_spirograph(5)
 
@@ -33,15 +35,10 @@ draw_spirograph(5)
     # tim.setheading(tim.heading() + 10)
 
 
-
-
 # for i in range(100):
 #     tim.forward(30)
 #     tim.setheading(random.choice(directions))
 #     tim.color(random_color())
-#
-#
-
 
 
 
@@ -58,14 +55,13 @@ draw_spirograph(5)
 #     edge += 1
 
 
-
-
 # Drawing a dashed line
 # for _ in range(10):
 #     tim.forward(10)
 #     tim.penup ()
 #     tim.forward(10)
 #     tim.pendown()
+
 
 #Draw a red square
 # tim.shape("turtle")
@@ -78,6 +74,7 @@ draw_spirograph(5)
 
 screen = Screen()
 screen.exitonclick() #hold the screen
+
 
 #Some notes about importing
 # import turtle

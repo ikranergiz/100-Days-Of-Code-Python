@@ -1,0 +1,405 @@
+
+
+<!DOCTYPE html><!--[if lt IE 7 ]> <html class="ie6"> <![endif]--><!--[if IE 7 ]>    <html class="ie7"> <![endif]--><!--[if IE 8 ]>    <html class="ie8"> <![endif]--><!--[if IE 9 ]>    <html class="ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->	<head>		<title>Untitled (with Black Dot) - Damien Hirst</title>		<meta charset="utf-8">		<meta name="author" content="Science Ltd">		<meta name="description" content="Untitled (with Black Dot)">		<meta name="keywords" content="Pharmaceutical, Spot, spots, Painting, paintings">		
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.damienhirst.com/home/rss">
+<!-- <link rel="stylesheet" href="/layout/css/style.css"> -->
+<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/2c603685-e24c-42f4-b2b8-408be1e91545.css"/>
+<link rel="stylesheet" href="/assets/dest/css/index.css">
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-29065115-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>		<script>		var ikey = '02827744f61f1522e997a1a827c1d389';		</script>	</head>	<body>
+		<div class="container relative">
+			<div class="border-bottom border-grey">
+<header class="bg-white clearfix">
+	<div class="content clearfix relative">
+        <a href="/"  class="v-centre col col-6">
+            <h1 class="mx4">Damien Hirst</h1>
+        </a>
+        <div class="col-right my3 px4">
+          <div class="disclosure key-bind cursor-pointer block circle bg-blue white relative center col col-6 mr2" data-bind="content-1">
+              <i class="icon-burger large center"></i>
+          </div>
+          <div  class="disclosure key-bind cursor-pointer block circle bg-green white relative center col col-6" data-bind="content-2">
+              <i class="icon-search large center"></i>
+          </div>
+        </div>
+
+        <div class="content-1 hide">
+            <div class="absolute clearfix top-0 bottom-0 right-0 col-12 sm-col-7 md-col-4 height-100">
+
+				<div class="disclosure cursor-pointer sm-show fixed top-0 left-0 right-0 bottom-0 opacity-4 bg-black z3" data-bind="content-1"></div>
+                <div class="fixed top-0 bottom-0 height-100 col-12 bg-white z3"></div>
+
+                <div class="relative right-0 top-0 bottom-0 bg-white animate z3">
+                    <ul style="margin-top: calc(6rem - 3px);" class="nav m0 list-reset mx4 mt7 pt3">
+                    <li>
+                            <a class="blue" href="/home">
+                                <div class="py3 border-grey-004 border-bottom border-top">
+                                    Home
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="blue" href="/news">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    News
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="black" href="/artworks">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    Artworks
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="blue" href="/biography">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    Biography
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="blue" href="/exhibitions">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    Exhibitions
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="blue" href="/video">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    Video
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="blue" href="/texts">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    Texts
+                                </div>
+                            </a>
+                        </li><li>
+                            <a class="blue" href="/image-licensing">
+                                <div class="py3 border-grey-004 border-bottom">
+                                    Image Licensing
+                                </div>
+                            </a>
+                        </li><li>
+                <a class="blue" target="_blank" href="http://hirst.othercriteria.com/">
+                    <div class="py3 border-bottom border-grey-004">
+                        Shop
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a class="blue" target="_blank" href="http://www.newportstreetgallery.com/">
+                    <div class="py3 border-bottom border-grey-004">
+                        Newport Street Gallery
+                    </div>
+                </a>
+            </li>
+                    </ul>
+                </div>
+
+                <div class="absolute z3 top-0 right-0">
+                    <div class="inline-block mt3 mr4 disclosure cursor-pointer block circle bg-blue white relative center" data-bind="content-1">
+                        <i class="icon-cross large center"></i>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="content-2 hide">
+
+            <div class="absolute clearfix top-0 bottom-0 right-0 col-12 sm-col-7 md-col-4 height-100">
+
+                <div class="disclosure cursor-pointer sm-show fixed top-0 left-0 right-0 bottom-0 opacity-4 bg-black z3" data-bind="content-2"></div>
+                <div class="fixed top-0 bottom-0 height-100 col-12 bg-white z3"></div>
+
+                <div class="relative pt3 right-0 top-0 bottom-0 bg-white animate z3">
+                    <form style="margin-top: calc(6rem - 3px);" class="mx2 mt7 bg-grey-001 p3" action="/search" method="get">
+        				<label for="queryblock">Search</label>
+                        <div class="border-bottom border-blue mt2">
+        				    <input type="text" class="text bg-grey-001 border-none pt2 col-12" id="query" name="query" />
+                        </div>
+        				<div class="button go hide">
+                            <input type="submit" class="submit" value="submit">
+                        </div>
+        			</form>
+                </div>
+
+                <div class="absolute z3 top-0 right-0">
+                    <a href="#" class="mt3 mr4 disclosure block circle bg-blue white relative center" data-bind="content-2">
+                        <i class="icon-cross large center"></i>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+	</div>
+
+</header>
+</div>			<div class="artwork clearfix">
+
+				<div class="content mb1px clearfix bg-white">
+
+					<div class="col col-12 sm-col-7 md-col-8">
+						<div class="col-12 sm-col-11 md-col-7">
+							<h1 class="mt5 pb4 px4">Untitled (with Black Dot), 1988</h1>
+						</div>
+					</div>
+
+					<div class="col-right col-12 sm-col-5 md-col-4 my4">
+						
+					</div>
+
+				</div>
+
+				<section class="section viewer">
+					<div class="clearfix mb1px bg-white relative">
+						<div class="col col-6">
+							<div class="px4 mt5 mb3 ">
+                                <span class="viewer-position not-empty">&nbsp</span>
+                            </div>
+						</div>
+						<div class="artworks list-reset col-right mr4 right-0 v-centre">
+							<a href="#" class="circle bg-blue white relative center col zoom">
+								<i class="icon-enlarge h1"></i>
+							</a>
+							<a href="#" class="circle bg-blue white relative center col ml3 left display-none">
+								<i class="icon-chevron-left h1"></i>
+							</a>
+							<a href="#" class="circle bg-blue white relative center col ml2 right display-none">
+								<i class="icon-chevron-right h1"></i>
+							</a>
+						</div>
+						
+						<div class="works display-none">
+							
+					<a href="/images/hirstimage/DHS5905_771_0.jpg"
+					data-zoom="http://7c260a6670b008899091-dce0b8a5df4ddc1e9394fdd3cbfa9e7c.r32.cf3.rackcdn.com/dh_zoom_ext.html?id=797&name=Untitled (with Black Dot)&view_name=overview&caption=Courtesy of Gagosian Gallery, New York (C) Damien Hirst and Science Ltd. All rights reserved, DACS 2012"
+					data-cdnpath="http://7c260a6670b008899091-dce0b8a5df4ddc1e9394fdd3cbfa9e7c.r32.cf3.rackcdn.com"
+					data-caption="Courtesy of Gagosian Gallery, New York © Damien Hirst and Science Ltd. All rights reserved, DACS 2012"
+                    data-width="771"
+                    data-height="833"
+					class="artwork-image">Untitled (with Black Dot)</a>
+						</div>
+					</div>
+
+					<div class="bg-white mb1px clearfix">
+                        <div>
+						<img class="viewer max-width-100 block" src="/images/hirstimage/DHS5905_771_0.jpg" alt="overview">
+                        </div>
+					</div>
+
+				</section>
+
+				<section>
+					<div class="clearfix bg-white mb1px">
+						<h1 class="col md-col-4 my2 px4 clearfix">
+							<span class="inline-block line-height-2 mt3">
+								Data
+							</span>
+						</h1>
+                        <span
+                            class="my2 mr4 cursor-pointer right circle bg-blue white disclosure allow-all"
+                            data-bind="data-content"
+                            data-class="icon-chevron-up"
+                            data-active="active">
+                            <i class="icon-chevron-down h1"></i>
+                        </span>
+						<div class="col col-12 md-col-7 pb4 md-pt3 data-content hide">
+							<div class="mx2 px2 py2 bg-grey-002">
+								<div class="pb1">Untitled (with Black Dot)</div>
+								<div class="pb1">1988</div>
+								<div class="pb1">2388 x 2134 mm | 94 x 84 in | (4.5 inch spot)<br /></div>
+                                <div class="pb1">Household gloss on canvas     </div>
+								<div><span class="border-bottom border-blue"><a href="/artworks/catalogue?category=1">Spot Paintings</a></span></div>
+							</div>
+                            <div class="mx2 px2 py2 limit-line-width"><div>Image: Courtesy of Gagosian Gallery, New York © Damien Hirst and Science Ltd. All rights reserved, DACS 2012</div></div>
+                            
+                        </div>
+						</div>
+				</section>
+
+				<section class="bg-white clearfix mb1px">
+						<h1 class="col md-col-4 my2 px4">
+							<span class="inline-block line-height-2 mt3">
+								Exhibitions
+							</span>
+						</h1>
+                        <span
+                            class="my2 mr4 cursor-pointer right circle bg-blue white disclosure allow-all"
+                            data-bind="exhibition-content"
+                            data-class="icon-chevron-up">
+                            <i class="icon-chevron-down h1"></i>
+                        </span>
+						<div class="col col-12 md-col-7 pb4 md-pt3 exhibition-content hide">
+							<div class="mb3 mx2 px2 py2 bg-grey-002">
+								
+									<div class="clearfix">
+										<div class="col col-12 sm-col-4">
+											<a class="border-bottom border-blue" href="/exhibitions/solo/2012/complete-spot-paintings">Damien Hirst: The Complete Spot Paintings 1986-2011</a>
+										</div>
+										<div class="col col-12 sm-col-8">
+											Solo Exhibition - 2012<br/>
+											Gagosian Gallery, eleven locations worldwide, , United Kingdom
+										</div>
+									</div>
+							</div>
+						</div>
+					</section>
+				<section class="clearfix mb1px bg-white">
+						<h1 class="col md-col-4 my2 px4">
+							<span class="inline-block line-height-2 mt3">
+                                Context
+                            </span>
+						</h1>
+                        <span
+                            class="my2 mr4 cursor-pointer right circle bg-blue white disclosure allow-all"
+                            data-bind="context-content"
+                            data-class="icon-chevron-up">
+                            <i class="icon-chevron-down h1"></i>
+                        </span>
+						<div class="col col-12 md-col-7 pb4 pt3 context-content hide">
+							<div class="mb3 mx2 px2 py2 bg-grey-002">
+                                <div>
+<div>
+<p>“To create that structure, to do those colours, and do nothing. I suddenly got what I wanted. It was just a way of pinning down the joy of colour<em>.</em>”<a href="#_ftn1">[1]</a></p>
+<p>‘Untitled (with Black Dot)’ is the first spot painting on canvas and the only ‘Pharmaceutical’ painting (the most prolific sub-series of the spots) ever to have incorporated a black spot. Around the same time as creating the work on canvas, Hirst painted two near-identical arrangements of coloured spots onto the wall of the warehouse at ‘<a href="/exhibitions/group/1988/freeze" target="_blank">Freeze</a>’. He called the works ‘<a href="/edge" target="_blank">Edge</a>’ (1988) and ‘<a href="/row">Row</a>’ (1988). These paintings followed some loose hand-painted spots on board, dating from 1986. Following ‘Freeze’, Hirst started to refine the creative process. Slowly, he began to employ assistants to create the spot paintings. Any physical evidence of human intervention – such as the compass point left at the centre of each spot – was removed, until the works appeared to have been constructed mechanically, or “by a person trying to paint like a machine”.<a href="#_ftn2">[2]</a> For Hirst, it was a departure from years of experimenting with paint and collage, and the first result of his search for a contemporary art form that could succeed without a reliance on “already organised elements.” </p>
+<p>The random and infinite colour series within the ‘Pharmaceutical’ paintings is integral to the works. Hirst explains that, “mathematically, with the spot paintings, I probably discovered the most fundamentally important thing in any kind of art. Which is the harmony of where colour can exist on its own, interacting with other colours in a perfect format.”<a href="#_ftn3">[3]</a> Any problems he had previously had with colour, Hirst claims, were removed by the perfect arrangement of complimentary, yet never repeated, colours in the spots.</p>
+<p>The spot paintings vary in size from a 40 foot canvas containing spots of 1 inch, ‘<a href="/iodomethane-13c" target="_blank">Iodomethane- 13c</a>’ (1999 - 2000), to ‘Erbium Oxide’ (2009), which has only four 60 inch spots, to ‘L-Isoleucinol’ (2008 - 2011), which measures ten by sixteen inches and contains 25,781 one millimeter spots. Their titles are taken arbitrarily from the chemical company Sigma-Aldrich’s catalogue ‘Biochemicals for Research and Diagnostic Reagents’, a book Hirst stumbled across in the early 1990’s. The grid formula within the ‘Pharmaceutical’ paintings was the basis for an endless series. Over the last 24 years, Hirst has produced on average 60 spot paintings a year. </p>
+<p>In 2012 Gagosian Gallery exhibited over 300 spot paintings across eleven gallery spaces worldwide. Conceived as a single exhibition, ‘<a href="/exhibitions/solo/2012/complete-spot-paintings" target="_blank">The Complete Spot Paintings 1986-2011</a>’ fulfilled Hirst’s longstanding ambition to show the works together. He explained in 2000, “it’s an assault on your senses. They grab hold of you and give you a good shaking. As adults, we’re not used to it. It’s an amazing fact that all objects leap beyond their own dimension.”<a href="#_ftn4">[4]</a></p>
+<div><br clear="all" /><hr align="left" size="1" width="33%" />
+<div>
+<p><a href="#_ftnref1">[1]</a> Damien Hirst cited in Damien Hirst and Gordon Burn, ‘On the Way to Work’, (Faber and Faber, 2001), 119</p>
+</div>
+<div>
+<p><a href="#_ftnref2">[2]</a> ibid., 90</p>
+</div>
+<div>
+<p><a href="#_ftnref3">[3]</a> ibid., 120</p>
+</div>
+<div>
+<p><a href="#_ftnref4">[4]</a> ibid., 220 </p>
+</div>
+</div>
+</div>
+</div>
+							</div>
+						</div>
+					</section>
+                <!--/.section -->
+				<div class="section section-heading clearfix relative bg-white mb1px">
+					<h1 class="px4 m0 v-centre col-6 sm-col-12"></h1>
+				</div>
+				<div id="recent-search" class="section carousel no-title works">					<div class="carousel-wrap overflow-hidden relative bg-white">
+						<!-- grid lines -->
+						<div class="absolute col-6 sm-col-4 md-col-3 top-0 bottom-0">
+							<div class="border-right border-grey top-0 bottom-0 right-0 z1 absolute"></div>
+						</div>
+						<div class="absolute sm-col-8 md-col-6 top-0 bottom-0">
+							<div class="border-right border-grey top-0 bottom-0 right-0 z1 absolute"></div>
+						</div>
+						<div class="absolute md-show col-9 top-0 bottom-0">
+							<div class="border-right border-grey top-0 bottom-0 right-0 z1 absolute"></div>
+						</div>
+						<!-- end grid lines -->
+						<div class="items artworks container clearfix border-bottom border-grey"></div>
+					</div>				</div>			</div><!--/.main -->
+            <div class="fixed bottom-0 right-0 left-0 z4" style="transform: translateY(100%);">
+                <div class="container relative">
+                    <div class="absolute right-0" style="transform: translateY(-100%);">
+                        <button id="closeDeepZoom" class="border-0 p0 right circle bg-blue white center mr4 mb4 display-none">
+                            <i class="icon-cross h1"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+			
+<footer class="clearfix container col-12 ml05px mr05px">
+
+    <div class="footer clearfix col col-12">
+        <div class="clearfix">
+            <div class="bg-grey-002 col col-12 sm-col-4">
+                <div class="pt3"></div>
+            </div>
+            <div class="col-right col-12 sm-col-8 overflow-hidden">
+                <div class="bg-grey-002 sm-ml1px pt3"></div>
+            </div>
+        </div>
+        <div class="clearfix bg-grey-002">
+            <div class="col col-12 sm-col-4">
+            	<div class="social px4">
+            		<h4 class="left mt0 mb3 mr3">Social:</h4>
+            		<ul class="left list-reset m0 line-height-1">
+            			<li class="inline-block mx2">
+            				<a href="http://www.damienhirst.com/home/rss">
+            					<i class="icon-rss grey"></i>
+            				</a>
+            			</li>
+            			<li class="inline-block mx2">
+            				<a href="http://twitter.com/#!/hirst_official">
+            					<i class="icon-twitter grey"></i>
+            				</a>
+            			</li>
+            			<li class="inline-block mx2">
+            				<a href="http://www.facebook.com/pages/Damien-Hirst-official/111242142343717">
+            					<i class="icon-facebook grey"></i>
+            				</a>
+            			</li>
+            			<li class="inline-block mx2">
+            				<a href="http://instagram.com/damienhirst">
+            					<i class="icon-instagram grey"></i>
+            				</a>
+            			</li>
+            		</ul>
+            	</div>
+            </div>
+            <div class="col col-12 sm-col-8">
+                <ul class="clearfix list-reset mx4 mb3 mt0">
+                    <li class="inline-block col col-6 width-auto mb2 sm-mb0">
+                        <a class="border-bottom border-blue mr4" href="mailto:pressenquiries@damienhirst.com">
+                            Press enquiries
+                        </a>
+                    </li>
+                	<li class="inline-block col col-6 width-auto mb2 sm-mb0">
+                        <a class="border-bottom border-blue mr4" href="/home/privacy ">
+                            Privacy
+                        </a>
+                    </li>
+                	<li class="inline-block col col-6 width-auto mb2 sm-mb0">
+                        <a class="border-bottom border-blue mr4" href="/home/terms-conditions">
+                            Terms &amp; Conditions
+                        </a>
+                    </li>
+                	<li class="inline-block col col-6 width-auto mb2 sm-mb0">
+                        <a class="border-bottom border-blue mr4" href="/home/links">
+                            Links
+                        </a>
+                    </li>
+                	<li class="inline-block col col-6 width-auto mb2 sm-mb0">
+                        <a class="border-bottom border-blue mr4" href="/home/credits">
+                            Credits
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="/assets/dest/js/index.js"></script>
+<script type="text/javascript" src="/assets/dest/js/html5shiv.js"></script>
+
+<!--/.footer -->
+		</div><!--/.container -->
+	</body></html>
